@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pavle and I'm a FullStack Web Developer from Serbia!</h2>
+<h2 align="left">Hi 👋! My name is Kowy but you can call me Pavle and I'm a FullStack Web Developer from Serbia!</h2>
 
 ###
 
