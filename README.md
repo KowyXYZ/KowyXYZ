@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e479jqxkklcpv16klef2vc0zuol63sl7uerjo91vd4k&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="300" src="https://im7.ezgif.com/tmp/ezgif-7-99c3b76125.gif"  />
 </div>
 
 ###
