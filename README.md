@@ -7,8 +7,10 @@
 
 ###
 
+![logo](https://github.com/KowyXYZ/KowyXYZ/blob/main/banner.jpg)
+
 <div align="center">
-  <img height="300" src="https://im7.ezgif.com/tmp/ezgif-7-99c3b76125.gif"  />
+   
 </div>
 
 ###
