@@ -1,4 +1,4 @@
-# ৻(  •̀ ᗜ •́  ৻) Hey, I'm Pavle
+# 👋 Hey, I'm Pavle
 
 I'm a 19 year old web developer living in Serbia.
 
