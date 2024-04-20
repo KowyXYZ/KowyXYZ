@@ -1,4 +1,4 @@
-# Hey, I'm Pavle
+# ^._.^ฅ Hey, I'm Pavle
 
 I'm a 19 year old web developer living in Serbia.
 
