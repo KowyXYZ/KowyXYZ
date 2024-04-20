@@ -11,10 +11,6 @@ challenges to expand my skill set.
   
 * Communication, Problem Solving, Clean Code, Continuous Learning.
 
-```
-Diving into web 3.0
-```
-  
 ## 📩 Contact
 
 * [LinkedIn](https://www.linkedin.com/in/kowy-dev/)
