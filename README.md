@@ -13,6 +13,6 @@ challenges to expand my skill set.
   
 ## 📩 Contact
 
-[LinkedIn](https://www.linkedin.com/in/kowy-dev/)
-[Instagram](https://www.instagram.com/pavle.dev/)
-[Discord](https://discord.gg/dqv7em6gAq)
+* [LinkedIn](https://www.linkedin.com/in/kowy-dev/)
+* [Instagram](https://www.instagram.com/pavle.dev/)
+* [Discord](https://discord.gg/dqv7em6gAq)
