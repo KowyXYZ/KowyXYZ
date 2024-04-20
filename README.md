@@ -10,6 +10,10 @@ challenges to expand my skill set.
 * React, Next.js, Javascript, Typescript, Redux, MongoDB, Firebase, Express, Tailwind & Solidity.
   
 * Communication, Problem Solving, Clean Code, Continuous Learning.
+
+```
+Diving into web 3.0
+```
   
 ## 📩 Contact
 
