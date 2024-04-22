@@ -7,10 +7,10 @@ challenges to expand my skill set.
 
 ## </> Skills
 
-* **Frontend Development: ** React, Next.js, Javascript, Typescript, Redux, MUI, FramerMotion and Tailwind.
-* **Backend Development: ** MongoDB, Firebase, Express and Solidity.
-* **Testing: ** Hardhat, Truffle, Postman.
-* **Soft Skills: ** Communication, Problem Solving, Clean Code, Time Management and Continuous Learning.
+* __Frontend Development:__ React, Next.js, Javascript, Typescript, Redux, MUI, FramerMotion and Tailwind.
+* __Backend Development:__ MongoDB, Firebase, Express and Solidity.
+* __Testing:__ Hardhat, Truffle, Postman.
+* __Soft Skills:__ Communication, Problem Solving, Clean Code, Time Management and Continuous Learning.
   
   
 * 
