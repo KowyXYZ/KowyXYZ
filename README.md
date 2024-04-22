@@ -11,9 +11,6 @@ challenges to expand my skill set.
 * __Backend Development:__ MongoDB, Firebase, Express and Solidity.
 * __Testing:__ Hardhat, Truffle, Postman.
 * __Soft Skills:__ Communication, Problem Solving, Clean Code, Time Management and Continuous Learning.
-  
-  
-* 
 
 ## 📩 Contact
 
