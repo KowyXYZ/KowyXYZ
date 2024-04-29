@@ -5,6 +5,8 @@ I'm a 19 year old web developer living in Serbia.
 I channel my creativity into personal projects and continuously seek new
 challenges to expand my skill set.
 
+* Check out my [portfolio](https://kowyxyz.com/).
+
 ## </> Skills
 
 * __Frontend Development:__ React, Next.js, Javascript, Typescript, Redux, MUI, FramerMotion and Tailwind.
