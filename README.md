@@ -9,10 +9,10 @@ challenges to expand my skill set.
 
 ## </> Skills
 
-* __Frontend Development:__ `React` `Next.js` `Javascript` `Typescript` `Redux` `MUI` `FramerMotion` and `Tailwind`.
-* __Backend Development:__ `MongoDB` `Firebase` `Express` and `Solidity`.
+* __Frontend Development:__ `React` `Next.js` `Javascript` `Typescript` `Redux` `MUI` `FramerMotion` `Tailwind`.
+* __Backend Development:__ `MongoDB` `Firebase` `Express` `Solidity`.
 * __Testing:__ Hardhat, `Truffle` `Postman`.
-* __Soft Skills:__ `Communication` `Problem Solving` `Clean Code`  `Time Management` and `Continuous Learning`.
+* __Soft Skills:__ `Communication` `Problem Solving` `Clean Code`  `Time Management` `Continuous Learning`.
 
 ## 📩 Contact
 
