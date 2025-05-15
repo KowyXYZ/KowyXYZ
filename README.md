@@ -8,7 +8,7 @@ I'm a 19 year old web developer living in Serbia.
 I channel my creativity into personal projects and continuously seek new
 challenges to expand my skill set.
 
-* Check out my [portfolio](https://kowyxyz.com/).
+* Check out my [portfolio](https://kowy.info/).
 
 ## </> Skills
 
